@@ -1,7 +1,7 @@
 module Kartik
-def self.count_kk
+  def self.count_kk
     puts 'kartik'
-end
+  end
 end
 
 Kartik.count_kk
